@@ -7,7 +7,7 @@
 Интерактивная веб-страница с анимированным 3D эффектом вращения продукта при наведении курсора. Проект демонстрирует возможности современных CSS технологий, включая CSS masks, blend modes и transitions.
 
 <img width="2344" height="1298" alt="127 0 0 1_5500_index html (1)" src="https://github.com/user-attachments/assets/86efb0e1-cd77-4ff4-8e12-7e8692837b50" />
-[Просмотр проекта](https://malinmaxim.github.io/Fire/)
+[Просмотр проекта](https://malinmaxim.github.io/CSSOnly/)
 
 ## ✨ Особенности
 
